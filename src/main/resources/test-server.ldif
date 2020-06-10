@@ -59,7 +59,7 @@ objectclass: top
 objectclass: person
 objectclass: organizationalPerson
 objectclass: inetOrgPerson
-cn: Keishna Priya
+cn: Krishna Priya
 sn: Priya
 uid: kp
 userPassword: kpspassword
